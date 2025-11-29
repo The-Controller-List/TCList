@@ -11,8 +11,8 @@
         {
             "user": "noone",
             "link": "https://www.youtube.com/watch?v=fW-1i6wdzSo",
-            "percent": "0%",
-            "fps": "240FPS"
+            "percent": "0",
+            "hz": "240"
 
         }
     ]

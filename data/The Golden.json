@@ -8,11 +8,11 @@
     "percentToQualify": "56",
     "fps": "240FPS",
     "records": [
-                {
+        {
             "user": "noone",
             "link": "https://www.youtube.com/watch?v=b4NqLeqdQV8",
-            "percent": "0%",
-            "fps": "240FPS"
+            "percent": "0",
+            "hz": "240"
 
         }
     ]
