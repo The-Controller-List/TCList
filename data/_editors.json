@@ -1,22 +1,22 @@
 [
     {
         "role": "owner",
-        "name": "victorz",
+        "name": "victorz"
     },
     {
         "role": "admin",
-        "name": "Looking for admins",
+        "name": "Looking for admins"
     },
     {
         "role": "helper",
-        "name": "Looking for helpers",
+        "name": "Looking for helpers"
     },
     {
         "role": "trial",
-        "name": "Looking for trial helpers",
+        "name": "Looking for trial helpers"
     },
     {
         "role": "dev",
-        "name": "Looking for list coders",
+        "name": "Looking for list coders"
     }
 ]
